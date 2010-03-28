@@ -1,0 +1,1 @@
+- callback handling for gSTIMbox.__init__()
